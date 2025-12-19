@@ -1,4 +1,14 @@
-# 👋 About Me
+## Index
+1. [About Me](#about-me)
+2. [CV](#cv)
+3. [Skills](#skills)
+4. [Tools](#tools)
+5. [Certifications & Education](#certifications--education)
+6. [Examples of My Work](#examples-of-my-work)
+7. [Quality Assurance in Manufacturing (Previous Experience)](#quality-assurance-in-manufacturing-previous-experience)
+8. [Contact](#contact)
+
+## 👋 About Me
 
 I am a detail-oriented professional with a unique blend of experience in **Product Management** and **Software Quality Assurance**. My background in **Fashion Management** provided a strong foundation in quality control, process improvement, and workflow management. I have successfully transitioned into the tech industry through the **Software Quality Assurance program at Mountainland Technical College**.
 
